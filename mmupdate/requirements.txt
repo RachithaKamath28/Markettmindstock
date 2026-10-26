@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+flask
+scipy
+flask-session
+streamlit
+plotly
