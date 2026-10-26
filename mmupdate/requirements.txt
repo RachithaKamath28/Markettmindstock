@@ -9,3 +9,4 @@ scipy
 flask-session
 streamlit
 plotly
+gunicorn
